@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokeViewer</string>
+    <string name="error_msg_joke_not_found">Joke not found!</string>
+</resources>
